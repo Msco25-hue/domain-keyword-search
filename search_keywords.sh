@@ -96,3 +96,4 @@ done < "$domains_file"
 
 # Call the cleanup function to save the results before exiting
 cleanup
+reactNative.launchAndroidSimulator
